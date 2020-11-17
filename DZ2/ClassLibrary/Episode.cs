@@ -1,8 +1,8 @@
 ﻿using System;
-using ClassDescription;
 
 
-namespace ClassEpisode
+
+namespace ClassLibrary
 {
 	public class Episode
 	{
