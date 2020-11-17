@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVA_HODIC__DZ2", "IVA_HODIC__DZ2\IVA_HODIC__DZ2.csproj", "{AD87845F-7980-4D94-A8EE-229AE9E74E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{64D570CF-1BF4-46D5-9297-C9ECE39286CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD87845F-7980-4D94-A8EE-229AE9E74E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD87845F-7980-4D94-A8EE-229AE9E74E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD87845F-7980-4D94-A8EE-229AE9E74E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD87845F-7980-4D94-A8EE-229AE9E74E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D570CF-1BF4-46D5-9297-C9ECE39286CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D570CF-1BF4-46D5-9297-C9ECE39286CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D570CF-1BF4-46D5-9297-C9ECE39286CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D570CF-1BF4-46D5-9297-C9ECE39286CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB812BA-FBAD-42B0-B0EF-C08DE92E933B}
+	EndGlobalSection
+EndGlobal
