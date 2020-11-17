@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ClassDescription
+namespace ClassLibrary
 {
     public class Description
     {
